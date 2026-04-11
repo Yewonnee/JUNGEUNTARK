@@ -17,6 +17,12 @@ let categories = {
     "img/33.jpeg",
     "img/38.jpeg"
   ],
+  cotton: [
+    "img/59.jpeg",
+    "img/62.jpeg",
+    "img/63.jpeg",
+    "img/65.jpeg"
+  ],
     fill: [
     "img/66.jpeg",
     "img/67.jpeg",
@@ -24,12 +30,6 @@ let categories = {
     "img/69.jpeg",
     "img/70.jpeg",
     "img/71.jpeg"
-  ],
-  cotton: [
-    "img/59.jpeg",
-    "img/62.jpeg",
-    "img/63.jpeg",
-    "img/65.jpeg"
   ],
   tree: [
     "img/27.jpeg",
